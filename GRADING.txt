@@ -1,0 +1,38 @@
+Overall, I felt that I did a good job of meeting the requirements set for us on the grading rubric. The most
+notable flaws (aside from animation glitches) are the lack of a real third level, a top-down level, and a flight
+animation. However, the last one was intentional as I felt the use of flight in a platformer sort of sours the
+experience and defeats the purpose of platforming. 
+
+I do have two working levels, the first of which features a city scape for the parallax background. The game 
+features a splash/start screen, and some mechanical complexity beyond the tutorials we have done. For instance,
+there are invisible entities that make the player produce swim animations, there's a power-up collectible that
+changes the color scheme of the player and allows access to a third more powerful, and visually complex attack.
+
+On that note I have three working attacks: a punch, a kick, and a lightning bolt. All three are represented in
+the game as projectiles, but each has its own set of animation frames to accompany the shot if the player is
+standing still. On top of this, each projectile has it's own timer and they expire at different rates, effectively
+creating varied ranges for each attack. The boot is shorter ranged, but stronger compared to the punch. However,
+the lightning has better damage and range than the punch and the kick.
+
+My self-portrait is a surprised construction worker that appears on the Game Over screen. He also appears 
+in full-animation on the 'third' level which is more a showcase of the game's sprites so you can get a better look
+at them or just fly around to browse the sprites at your leisure.
+
+Kristoff, the main character, has a fully animated run sequence, jump sequence, fall sequence, climb sequence,
+swim sequence, and three fully animated attack sequences. 
+
+The game's sprites are two evil one (Sentry Beavers and Otter Boxes) and one neutral/friendly sprite (the lunchbox).
+More so, Rudy and Dr. Blenditt, while important to the story, act as neutral sprites and don't inflict harm on
+the player. Of the two enemy sprites, the Sentry Beavers are dynamic, and move around the platforms, while
+the Otter Boxes are staticly in place, though they do animate on a deeper level and throw projectiles.
+
+The player's lives are shown at the top left of the corner, with a small version of Kristoff's head/neck. The 
+player technically has 3 lives, which gives them four attempts at the level. Each death respawns the player
+at the start of the level.
+
+Player health is not visually expressed, but it is set at a default value of 20, with most enemy encounters 
+killing Kristoff on-contact or after two hits.
+
+With these things in consideration, I would technically give myself about an 90 in terms of met requirements. 
+However, I am no artist and I don't feel my level design is particularly exciting. So with some deductions
+for my inability to spice things up, I'd feel comfortable at at least an 80 overall. 
